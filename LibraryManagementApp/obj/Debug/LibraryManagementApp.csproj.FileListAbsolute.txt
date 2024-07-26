@@ -1,0 +1,7 @@
+C:\Users\mucin\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\LibraryManagementApp.exe.config
+C:\Users\mucin\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\LibraryManagementApp.exe
+C:\Users\mucin\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\LibraryManagementApp.pdb
+C:\Users\mucin\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.csproj.AssemblyReference.cache
+C:\Users\mucin\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\mucin\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.exe
+C:\Users\mucin\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.pdb
